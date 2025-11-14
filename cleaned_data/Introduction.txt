@@ -1,0 +1,30 @@
+Name Verification
+Thank you for calling DragonFly. This is {{ session.agent.firstName }}
+Before we get started, I just need to verify a few pieces of information.
+Am I speaking with
+?
+{{ option.title }}
+Oh, I'm sorry. Who am I speaking with today? (Edit First Name)
+Next
+And do you prefer to be called {{ session.user.firstName }}? (If 'NO' Edit First Name)
+Next
+Sub-Solution Verification
+Hi {{ session.user.firstName }}, Like I said, my name is {{ session.agent.firstName }}. I will be your performance specialist today.
+I see you are calling about
+{{ solution.solution }}
+. Is that right?
+{{ option.title }}
+[Review sub-solution options using the dropdown menu and select the appropriate call option]
+Next
+Call History
+Have you called DragonFly Before, or is this your first Time?
+{{ option.title }}
+Oh that's exciting! Since you haven't called us before, I'm going to walk you through our call process very briefly and then we'll get started.
+At Dragonfly, we work with students and professionals to tackle performance challenges in real time. That means our aim today is to help you get the ball rolling on whatever it is you’re calling about. This session will last about 22 minutes, it’s going to be conversational, and when it’s over you’re going to walk away with some evidence-based techniques you can begin implementing right away.
+While I’ll be a sort of coach for our conversation, remember that you’re in charge here and that my role is to support you.
+If it ever seems like I’ve misunderstood or misinterpreted something you’ve said, please correct me. That way we can be sure that the evidence-based actions we go over during the second half of our conversation are relevant to your situation.
+Would you like to get started?
+Next
+That’s great! I won’t spend much time reviewing our process then, but just a reminder that our session will last about 22 minutes, and I’ll start off by asking you a few questions just to establish where you’re at and where you’d like to be, and then we’ll jump into the skill building part of the call.
+Ready to get started?
+Next

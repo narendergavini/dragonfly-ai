@@ -1,0 +1,24 @@
+[project]
+name = "dragonfly"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4==4.14.2",
+    "faiss-cpu>=1.12.0",
+    "fastapi==0.115.6",
+    "langchain-community>=0.3.15",
+    "langchain-core==0.3.31",
+    "langchain-openai==0.3.1",
+    "langgraph==0.2.74",
+    "lxml==6.0.2",
+    "pydantic==2.10.5",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.2.1",
+    "python-multipart==0.0.20",
+    "requests==2.32.3",
+    "streamlit>=1.50.0",
+    "unstructured>=0.18.15",
+    "uvicorn[standard]>=0.38.0",
+]

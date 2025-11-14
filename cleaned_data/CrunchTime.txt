@@ -1,0 +1,185 @@
+Call Application, Goals and Time Constraints
+Why don't you start off by telling me a little bit about why you are calling today.
+Feel free to share any details you think might be relevant to our conversation. For instance:
+Is there a particular assignment or exam you're working on?
+Caller Application (Caller Response)
+What would you like to accomplish immediately after this call. That is, what do you hope our session will prepare you to do?
+Or, do you have future goals that you are pursuing that require better study skills?
+IF SPECIFIC APPLICATION: How will doing your best on
+[APPLICATION]
+benefit your future?
+Caller Goals for this Session
+How do you think better study skills specifically will help you achieve your goals?
+Amend Caller Goals to reflect answer.
+Confirm and clarify above selections and call goals before continuing.
+How are you feeling?
+You said that your
+[APPLICATION]
+is due in less than 24 hours, is that right?
+Could I ask how you're feeling?
+Stressed/Anxious
+Not Stressed/Not Anxious
+Performance Reset
+That feeling is totally understandable.
+It’s actually evolutionary. It’s part of the “fight or flight” mechanism our nervous system evolved to keep us safe from danger. That response mechanism is useful when the response stimuli is something that puts us in physical danger, but when it comes to more cognitive tasks, when we need to be acting and thinking from a place of calm, it’s not very helpful.
+What we want to do right now is a simple breathing exercise to reroute your nervous system’s response away from that fight or flight response and back toward your baseline, so that you can think and act from a place of calm. That’s where you perform at your best on cognitive tasks like
+[APPLICATION]
+.
+Here's what we'll do.
+When you’re ready, you’ll take a deep breath in and then I’ll say “Aaaand exhale” and you’ll breath out while I count to ten. We’ll do this 5 times.
+Are you ready?
+Deep breath. Good.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+Deep breath. Feel free to close your eyes while you’re doing this.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+Deep breath. And notice your shoulders. Try to keep them relaxed.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+Deep breath. Just remember that this is all part of the process of getting back to your baseline.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+Deep breath. Last time.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+This is a great exercise you can do whenever you’re feeling overwhelmed. Get yourself back to that baseline and ready to do your best.
+Mind Reset
+The breathing exercise we just did can help calm us when we realize that our emotions are running high, but it’d be even better if we could intervene in that “fight or flight” mechanism before our emotions started running so high.
+I’m going to use an analogy here to help you remember what I’m about to tell you.
+Imagine you’re driving to school and you approach a stop sign.
+What does that stop sign mean? And what do you do when you see it?
+[Allow Called to Respond]
+Exactly, just as the stop sign tells us when to be aware of our surroundings, so too, our emotions help us be more attentive to our next steps.
+In the analogy, the stop sign merely provides context to what you should pay attention to at that moment. It says “Stop and look.”
+Once you see that the way is clear, you can take your foot off the brake and keep going.
+In this way, your emotional response to
+[APPLICATION]
+is a signal to your brain that you need to stop, find a safe, logical way to move forward, and then get on your way.
+I am here to show you a safe way to move forward so you can do your best on
+[APPLICATION]
+.
+Sound good?
+[Allow Called to Respond]
+Excellent. But in the future, if you sense emotions growing, remember that those emotions are just telling you to stop, take a breath, assess the situation for a successful path forward, and then get on your way.
+Right now what it means though is that you should focus on the tasks we are about to discuss.
+Identify Goals
+Whenever we have a limited amount of time to prepare for something, the first thing we should immediately assess is what, out of all of the things we need to do, is the most important. What is the best, most impactful thing we can spend our time on.
+Let’s talk about
+[APPLICATION]
+. What do you think are the 3 or 4 most important things you can spend the time you have on?
+Great!
+Strategize
+Now, how many hours do you have to prepare for
+[APPLICATION]
+? Keep in mind that you need to sleep and eat and take other breaks.
+Put into Practice 1
+Alright.
+Let’s take those three or four important things you identified earlier.
+You have
+{{ hours }}
+hours in which to work on these things.
+I want you to get something to write with.
+Draw a table with 3 columns and
+{{ Number(hours + 1) }}
+rows.
+Label the first column:
+Hour
+And the second column:
+Task
+In the Hour column, number the rows 1 through
+{{ hours }}
+.
+Next, in the
+Task
+column, I want you to write down which of the tasks you need to focus on for each hour-long session. It’s totally okay to put the same task for multiple hour-long sessions.
+[
+PS NOTE
+Walk Caller through filling out the following table.]
+Hour
+Task
+Example
+Quadratics
+{{ index }}
+[etc.]
+Put into Practice 2
+Even though you’re working against a deadline, it’s still important to give yourself small breaks so that you can recharge and refocus, so we’re going to make a rule for these sessions.
+That rule is: you can only work for 45 minutes every hour.
+The other fifteen minutes you’ll use as a mini break or reward session.
+Label the third column of your table
+Break
+. Now, let’s identify a reward or an activity that you can do as a reward and to help stay motivated.
+[
+PS NOTE
+Add Caller-identified reward to the note field in the Break column.]
+Hour
+Task (:45)
+Break (:15)
+Example
+Quadratics
+Cookie, walk
+{{ index }}
+[etc.]
+Refinement Methods
+[
+PS NOTE
+Skip screen if Caller application does not require studying]
+As you study those topics that are most important, I want you to do two things.
+First, I want you to elaborate, out loud, as if you were teaching the topic. If you’re studying the structure of a cell, for instance, then I want you to talk through the cell’s structure as if you’re teaching it to somebody else. You can do this with the picture of the cell in front of you, or you can try to do it without a visual aide.
+Next, I want you to think of ways the information you’re studying might be applied in the real world.
+These two techniques can really help information be more memorable.
+How are you feeling? (2)
+Alright, that does it for us today.
+How are you feeling?
+Stressed / Anxious
+Not Stressed / Not Anxious
+That feeling is totally understandable.
+It’s actually evolutionary. It’s part of the “fight or flight” mechanism our nervous system evolved to keep us safe from danger. That response mechanism is useful when the response stimuli is something that puts us in physical danger, but when it comes to more cognitive tasks, when we need to be acting and thinking from a place of calm, it’s not very helpful.
+What we want to do right now is a simple breathing exercise to reroute your nervous system’s response away from that fight or flight response and back toward your baseline, so that you can think and act from a place of calm. That’s where you perform at your best on cognitive tasks like
+[APPLICATION]
+.
+Here’s what we’ll do.
+When you’re ready, you’ll take a deep breath in and then I’ll say “Aaaand exhale” and you’ll breath out while I count to ten. We’ll do this 5 times.
+Are you ready?
+Deep breath. Good.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+Deep breath. Feel free to close your eyes while you’re doing this.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+Deep breath. And notice your shoulders. Try to keep them relaxed.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+Deep breath. Just remember that this is all part of the process of getting back to your baseline.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+Deep breath. Last time.
+Aaaand exhale: 1-2-3-4-5-6-7-8-9-10.
+This is a great exercise you can do whenever you’re feeling overwhelmed. Get yourself back to that baseline and ready to do your best.
+Mind Reset
+The breathing exercise we just did can help calm us when we realize that our emotions are running high, but it’d be even better if we could intervene in that “fight or flight” mechanism before our emotions started running so high.
+I’m going to use an analogy here to help you remember what I’m about to tell you.
+Imagine you’re driving to school and you approach a stop sign.
+What does that stop sign mean? And what do you do when you see it?
+[Allow Caller to respond]
+Exactly, just as the stop sign tells us when to be aware of our surroundings, so too, our emotions help us be more attentive to our next steps.
+In the analogy, the stop sign merely provides context to what you should pay attention to at that moment. It says “Stop and look.”
+Once you see that the way is clear, you can take your foot off the brake and keep going.
+In this way, your emotional response to
+[APPLICATION]
+is a signal to your brain that you need to stop, find a safe, logical way to move forward, and then get on your way.
+I am here to show you a safe way to move forward so you can do your best on
+[APPLICATION]
+.
+Sound good?
+[Allow Caller to respond]
+Excellent. But in the future, if you sense emotions growing, remember that those emotions are just telling you to stop, take a breath, assess the situation for a successful path forward, and then get on your way.
+Right now what it means though is that you should focus on the tasks we are about to discuss.
+Summary
+What we did here today
+[FIRST NAME]
+is match some evidence-based strategies to the needs of your specific
+[APPLICATION]
+.
+Together, we put together a plan to help you direct your efforts toward the most important tasks you need to accomplish.
+[
+PS NOTE
+Review plan below]
+Do you have any questions or concerns for me at this point?
+Well,
+[FIRST NAME]
+, I would like to commend you on taking the initiative to call us. Best of luck on your
+[APPLICATION]
+. I’m excited about your performance and wish you well in your class.
+Goodbye.
