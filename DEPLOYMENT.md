@@ -24,7 +24,7 @@ git commit -m "Initial commit - Dragonfly AI app"
 git remote add origin https://github.com/yourusername/dragonfly-ai.git
 
 # Push to GitHub
-git push -u origin main
+git push -u origin master
 ```
 
 #### 2. **Deploy to Streamlit Cloud**
