@@ -11,6 +11,8 @@ from prompt import system_prompt, procrastination_DF_metadata
 import re
 from docx import Document
 
+load_dotenv()
+
 # Try to import streamlit for secrets handling (for cloud deployment)
 try:
     import streamlit as st
@@ -21,13 +23,11 @@ try:
         LANGCHAIN_PROJECT = st.secrets["secrets"]["LANGCHAIN_PROJECT"]
     else:
         # Fallback to environment variables
-        load_dotenv()
         OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
         LANGCHAIN_API_KEY = os.getenv("LANGCHAIN_API_KEY")
         LANGCHAIN_PROJECT = os.getenv("LANGCHAIN_PROJECT", "dragonfly")
 except ImportError:
     # If streamlit is not available, use environment variables
-    load_dotenv()
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     LANGCHAIN_API_KEY = os.getenv("LANGCHAIN_API_KEY")
     LANGCHAIN_PROJECT = os.getenv("LANGCHAIN_PROJECT", "dragonfly")
