@@ -32,7 +32,7 @@ if 'chat_history' not in st.session_state:
     # Add a default welcome message
     st.session_state.chat_history.append({
         "role": "assistant",
-        "content": "Welcome to Dragonfly AI Bot! 🤖 How can I assist you today? Please select a category and start asking questions."
+        "content": "Welcome to Dragonfly AI"
     })
 if 'current_user_query' not in st.session_state:
     st.session_state.current_user_query = ""
@@ -42,6 +42,8 @@ if 'study_buddy' not in st.session_state:
     st.session_state.study_buddy = None
 if 'current_category' not in st.session_state:
     st.session_state.current_category = None
+if 'selected_category' not in st.session_state:
+    st.session_state.selected_category = None
 
 # Function to initialize or switch StudyBuddy for a category
 def get_study_buddy(category):
@@ -56,7 +58,7 @@ def get_study_buddy(category):
             if not study_buddy.load_knowledge_base_for_category(category):
                 return None, f"Sorry, I couldn't find a knowledge base for category '{category}'."
             
-            study_buddy.prepare_prompt_create_agent()
+            study_buddy.prepare_prompt_create_agent(category)
             
             # Update session state
             st.session_state.study_buddy = study_buddy
@@ -153,6 +155,21 @@ category = st.sidebar.selectbox(
     help="Choose from text files (general topics) or specific procrastination scripts"
 )
 
+# Always show update category button
+if st.sidebar.button("Update Category", type="primary"):
+    # Reset the study buddy when category is updated
+    st.session_state.study_buddy = None
+    st.session_state.current_category = None
+    st.session_state.selected_category = category
+    st.rerun()
+
+# Show current active category under the button
+if st.session_state.selected_category:
+    st.sidebar.success(f"Category Updated to {st.session_state.selected_category}")
+
+# Use the current category (either updated or previously selected)
+current_category = st.session_state.selected_category if st.session_state.selected_category else category
+
 
 # Input box for user query
 user_input = st.chat_input("Please enter your query here!")
@@ -170,7 +187,7 @@ if user_input:
     # Render a spinner while generating the response
     with st.spinner("Processing..."):
         # Generate response using the new ask_question function
-        assistant_response = get_ai_response(category=category, query=user_input)
+        assistant_response = get_ai_response(category=current_category, query=user_input)
 
         # Update session state with the assistant's response
         st.session_state.current_response = assistant_response
@@ -183,6 +200,6 @@ if user_input:
 
     print("*********************** start **************************")
     print("User input:", user_input)
-    print("Category:", category)
+    print("Category:", current_category)
     print("Assistant response:", st.session_state.current_response)
     print("*********************** END **************************", "\n\n")
