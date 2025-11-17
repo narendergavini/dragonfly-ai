@@ -1,22 +1,22 @@
-Call Application, Goals and Time Constraints
-Why don't you start off by telling me a little bit about why you are calling today.
+Chat Application, Goals and Time Constraints
+Why don't you start off by telling me a little bit about why you are messaging today.
 Optional: Feel free to share any details you think might be relevant to our conversation. For instance:
 Is there a particular assignment or exam you're procrastinating on that you need to complete?
-Or, are you calling for more general tips on combating procrastination?
-Caller Application (Caller Response)
+Or, are you messaging for more general tips on combating procrastination?
+User Application (User Response)
 Specific Application
 General Time Management
 Are you working with any time constraints, like upcoming deadlines?
 Less than 24 hours [Divers to SMS solutions]
 Time Constraint
 None
-What would you like to accomplish immediately after this call. That is, what do you hope our session will prepare you to do?
+What would you like to accomplish immediately after this chat session. That is, what do you hope our session will prepare you to do?
 If specific application: How will
 [SPECIFIC APPLICATION]
 benefit your future?
-Caller Goals for this Session
+User Goals for this Session
 How do you think better time management skills specifically will help you achieve your goals?
-Confirm and clarify above selections and call goals before continuing.
+Confirm and clarify above selections and chat session goals before continuing.
 Individual Variables 1
 Now just a few more quick questions to help us put together an action plan that can work for you. There are no wrong answers here.
 My first question is about your comfort zone when it comes to setting and following through on your goals generally.
@@ -61,8 +61,8 @@ Using those estimates to help create a schedule.
 How are you feeling? Any questions so far?
 Define Application
 To help make our discussion a bit more concrete, can you think of an assignment or a course that you are perhaps struggling to find time to work on? Preferably, this would be something that isn’t due immediately. For instance, maybe there’s a midterm or final coming up in the next few weeks that you need to find time to work on, or maybe there’s a class that you’re taking or a responsibility you’ve been putting off that you need to start dedicating more time toward.
-Caller Response: APPLICATION
-Great. So, throughout the call we’ll use
+User Response: APPLICATION
+Great. So, throughout the chat we'll use
 Application
 as an example to apply some of the different time management strategies we will be talking about to.
 Make sense?
@@ -91,9 +91,9 @@ Okay, your turn. How will doing your best on
 [SPECIFIC APPLICATION]
 benefit you or provide long-term value to your life?
 Okay, your turn. What are some long-term values or benefits you think better time management skills will provide your life?
-Caller Identified Benefits/Values
+User Identified Benefits/Values
 Emotional Script 1
-[CALLER FIRST NAME]
+[USER FIRST NAME]
 , a lot of times, when we struggle with time management, it has a lot to do with how we feel about a looming task. Perhaps we don’t feel it’s important. Or perhaps we’re assigning too much importance to it.
 In either case, these are negative feelings. And these feelings make us more likely to either put off the task, avoid it altogether, or allot too little (or too much) time to it.
 Now, the relationship we have with our emotions can be complicated, and this can be especially true for people like you who are a bit more creative and spontaneous. But it can be helpful to address and reframe these negative emotions.
@@ -112,13 +112,13 @@ Can you think of some ways you could view
 [SPECIFIC APPLICATION]
 that might help you revalue it?
 Can you think of some ways you could view certain tasks or assignments that might help you revalue it?
-Follow-up question to press Caller, if needed
+Follow-up question to press User, if needed
 Is there maybe some value to you in the assignment that you’re not considering?
-If Caller still struggles to identify value
-Sometimes this exercise can be fairly straightforward, and sometimes it requires a little bit of creativity to do. Let’s try a short exercise. [Load “Identifying Transferable Skills”]
+If User still struggles to identify value
+Sometimes this exercise can be fairly straightforward, and sometimes it requires a little bit of creativity to do. Let's try a short exercise. [Load "Identifying Transferable Skills"]
 Yes [Load Exercise]
 No [Move On]
-Caller Identified Benefits/Values
+User Identified Benefits/Values
 Does seeing some value in the
 [SPECIFIC APPLICATION]
 increase how important you feel the assignment is on that scale from one to ten, with ten being extremely important and one being not important at all?
@@ -133,7 +133,7 @@ So, what are some transferable skills you’re developing or practicing by worki
 [SPECIFIC APPLICATION]
 ?
 So, what are some transferable skills you’re developing or practicing by working on some of your current assignments?
-Encourage a response by caller, make suggestions, and review skill examples as needed
+Encourage a response by user, make suggestions, and review skill examples as needed
 Possible Skills
 Decision-Making
 Collaboration
@@ -147,7 +147,7 @@ Problem-Solving
 Professionalism
 Initiative
 Empathy
-Caller Identified Values
+User Identified Values
 Does seeing some value in the
 [SPECIFIC APPLICATION]
 increase how important you feel the assignment is on that scale from one to ten?
@@ -157,7 +157,7 @@ Excellent. Use that awareness of value to help motivate you.
 Emotional Script 4
 Best Possible Future
 Now,
-[CALLER FIRST NAME]
+[USER FIRST NAME]
 , I want you to imagine your Best Possible Future, okay?
 This is where you want to be in, say, three or five or ten years.
 You can think about your Best Possible Future in terms of academics, career, hobbies, health, or any other aspect of your life that feels most important to you right now.
@@ -166,7 +166,7 @@ Imagine exactly what you would do
 Who you would work with
 and where it would be
 Alight, what is your Best Possible Future?
-Listen to caller response
+Listen to user response
 Now I want you to consider how you never mentioned “
 [SPECIFIC APPLICATION]
 ” as part of your best life.
@@ -222,7 +222,7 @@ So, let's put this simple grid into practice by filling it in with everything yo
 So, let’s put this simple grid into practice. To help focus things, I want you to think about where tasks related to
 [APPLICATION]
 fit into the grid as you do this.
-Note: As an exercise, walk Caller through filling out the grid. Talking points for each quadrant are listed below
+Note: As an exercise, walk User through filling out the grid. Talking points for each quadrant are listed below
 Talking points for each quadrant
 Urgent & Important
 Pressing Problems
@@ -280,7 +280,7 @@ Edit and Format essay
 Submit
 2. Get the car fixed
 Locate a mechanic
-Call mechanic to schedule maintenance
+chat mechanic to schedule maintenance
 Check bank funds
 Arrange alternative transportation, if necessary
 Drop car off at mechanic
@@ -349,7 +349,7 @@ If we define challenging tasks by either…
 Their level of difficulty
 The amount of time needed to complete them, or
 Their urgency
-...I wonder if you might be able to identify one or two of the subdivided tasks that you mentioned earlier in the call that you would describe as “challenging” or at least “more challenging than the others”?
+...I wonder if you might be able to identify one or two of the subdivided tasks that you mentioned earlier in the chat that you would describe as "challenging" or at least "more challenging than the others"?
 Original Task
 Subdivided Tasks
 1. APPLICATION

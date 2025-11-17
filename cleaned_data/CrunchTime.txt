@@ -1,17 +1,17 @@
-Call Application, Goals and Time Constraints
-Why don't you start off by telling me a little bit about why you are calling today.
+Chat Application, Goals and Time Constraints
+Why don't you start off by telling me a little bit about why you are messaging today.
 Feel free to share any details you think might be relevant to our conversation. For instance:
 Is there a particular assignment or exam you're working on?
-Caller Application (Caller Response)
-What would you like to accomplish immediately after this call. That is, what do you hope our session will prepare you to do?
+User Application (User Response)
+What would you like to accomplish immediately after this chat session. That is, what do you hope our session will prepare you to do?
 Or, do you have future goals that you are pursuing that require better study skills?
 IF SPECIFIC APPLICATION: How will doing your best on
 [APPLICATION]
 benefit your future?
-Caller Goals for this Session
+User Goals for this Session
 How do you think better study skills specifically will help you achieve your goals?
 Amend Caller Goals to reflect answer.
-Confirm and clarify above selections and call goals before continuing.
+Confirm and clarify above selections and chat session goals before continuing.
 How are you feeling?
 You said that your
 [APPLICATION]
@@ -44,7 +44,7 @@ The breathing exercise we just did can help calm us when we realize that our emo
 I’m going to use an analogy here to help you remember what I’m about to tell you.
 Imagine you’re driving to school and you approach a stop sign.
 What does that stop sign mean? And what do you do when you see it?
-[Allow Called to Respond]
+[Allow User to Respond]
 Exactly, just as the stop sign tells us when to be aware of our surroundings, so too, our emotions help us be more attentive to our next steps.
 In the analogy, the stop sign merely provides context to what you should pay attention to at that moment. It says “Stop and look.”
 Once you see that the way is clear, you can take your foot off the brake and keep going.
@@ -55,7 +55,7 @@ I am here to show you a safe way to move forward so you can do your best on
 [APPLICATION]
 .
 Sound good?
-[Allow Called to Respond]
+[Allow User to Respond]
 Excellent. But in the future, if you sense emotions growing, remember that those emotions are just telling you to stop, take a breath, assess the situation for a successful path forward, and then get on your way.
 Right now what it means though is that you should focus on the tasks we are about to discuss.
 Identify Goals
@@ -90,7 +90,7 @@ Task
 column, I want you to write down which of the tasks you need to focus on for each hour-long session. It’s totally okay to put the same task for multiple hour-long sessions.
 [
 PS NOTE
-Walk Caller through filling out the following table.]
+Walk User through filling out the following table.]
 Hour
 Task
 Example
@@ -106,7 +106,7 @@ Break
 . Now, let’s identify a reward or an activity that you can do as a reward and to help stay motivated.
 [
 PS NOTE
-Add Caller-identified reward to the note field in the Break column.]
+Add User-identified reward to the note field in the Break column.]
 Hour
 Task (:45)
 Break (:15)
@@ -118,7 +118,7 @@ Cookie, walk
 Refinement Methods
 [
 PS NOTE
-Skip screen if Caller application does not require studying]
+Skip screen if User application does not require studying]
 As you study those topics that are most important, I want you to do two things.
 First, I want you to elaborate, out loud, as if you were teaching the topic. If you’re studying the structure of a cell, for instance, then I want you to talk through the cell’s structure as if you’re teaching it to somebody else. You can do this with the picture of the cell in front of you, or you can try to do it without a visual aide.
 Next, I want you to think of ways the information you’re studying might be applied in the real world.
@@ -152,7 +152,7 @@ The breathing exercise we just did can help calm us when we realize that our emo
 I’m going to use an analogy here to help you remember what I’m about to tell you.
 Imagine you’re driving to school and you approach a stop sign.
 What does that stop sign mean? And what do you do when you see it?
-[Allow Caller to respond]
+[Allow User to respond]
 Exactly, just as the stop sign tells us when to be aware of our surroundings, so too, our emotions help us be more attentive to our next steps.
 In the analogy, the stop sign merely provides context to what you should pay attention to at that moment. It says “Stop and look.”
 Once you see that the way is clear, you can take your foot off the brake and keep going.
@@ -163,7 +163,7 @@ I am here to show you a safe way to move forward so you can do your best on
 [APPLICATION]
 .
 Sound good?
-[Allow Caller to respond]
+[Allow User to respond]
 Excellent. But in the future, if you sense emotions growing, remember that those emotions are just telling you to stop, take a breath, assess the situation for a successful path forward, and then get on your way.
 Right now what it means though is that you should focus on the tasks we are about to discuss.
 Summary
@@ -179,7 +179,7 @@ Review plan below]
 Do you have any questions or concerns for me at this point?
 Well,
 [FIRST NAME]
-, I would like to commend you on taking the initiative to call us. Best of luck on your
+, I would like to commend you on taking the initiative to message us. Best of luck on your
 [APPLICATION]
 . I’m excited about your performance and wish you well in your class.
 Goodbye.

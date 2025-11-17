@@ -122,27 +122,27 @@ try:
 except Exception as e:
     # Fallback to hardcoded list if there's an issue
     docx_categories = [
-        "Conquering Fear-Based Procrastination (22-Minute Call)",
-        "Conquering Rebellion Procrastination (22-Minute Call)",
-        "Conquering Deadline Procrastination (22-Minute Call)",
-        "Conquering Decision Procrastination (22-Minute Call)",
-        "Conquering Task Overwhelm Procrastination (22-Minute Call)",
-        "Conquering Lack of Interest Procrastination (22-Minute Call)",
-        "Conquering Perfectionism Procrastination (22-Minute Call)",
-        "Conquering Decision Paralysis (22-Minute Call)",
-        "Conquering Perfectionist Procrastination (22-Minute Call)",
-        "Conquering Avoidant Procrastination (22-Minute Call)",
-        "Conquering Decision Paralysis Procrastination (22-Minute Call)",
-        "Conquering Deadline Adrenaline Procrastination (22-Minute Call)",
-        "Conquering Distraction Procrastination (22-Minute Call)",
-        "Conquering Productive Procrastination (22-Minute Call)",
-        "Conquering Fear of Failure Procrastination (22-Minute Call)",
-        "Conquering Energy Depletion Procrastination (22-Minute Call)",
-        "Conquering Unclear Goals Procrastination (22-Minute Call)",
-        "Conquering Skill Gap Procrastination (22-Minute Call)",
-        "Conquering Pleasure-Seeking Procrastination (22-Minute Call)",
-        "Conquering Arousal Procrastination (22-Minute Call)",
-        "Conquering Bedtime Procrastination (22-Minute Call)"
+        "Conquering Fear-Based Procrastination (22-Minute Session)",
+        "Conquering Rebellion Procrastination (22-Minute Session)",
+        "Conquering Deadline Procrastination (22-Minute Session)",
+        "Conquering Decision Procrastination (22-Minute Session)",
+        "Conquering Task Overwhelm Procrastination (22-Minute Session)",
+        "Conquering Lack of Interest Procrastination (22-Minute Session)",
+        "Conquering Perfectionism Procrastination (22-Minute Session)",
+        "Conquering Decision Paralysis (22-Minute Session)",
+        "Conquering Perfectionist Procrastination (22-Minute Session)",
+        "Conquering Avoidant Procrastination (22-Minute Session)",
+        "Conquering Decision Paralysis Procrastination (22-Minute Session)",
+        "Conquering Deadline Adrenaline Procrastination (22-Minute Session)",
+        "Conquering Distraction Procrastination (22-Minute Session)",
+        "Conquering Productive Procrastination (22-Minute Session)",
+        "Conquering Fear of Failure Procrastination (22-Minute Session)",
+        "Conquering Energy Depletion Procrastination (22-Minute Session)",
+        "Conquering Unclear Goals Procrastination (22-Minute Session)",
+        "Conquering Skill Gap Procrastination (22-Minute Session)",
+        "Conquering Pleasure-Seeking Procrastination (22-Minute Session)",
+        "Conquering Arousal Procrastination (22-Minute Session)",
+        "Conquering Bedtime Procrastination (22-Minute Session)"
     ]
 
 # Combine all categories

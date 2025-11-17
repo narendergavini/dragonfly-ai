@@ -1,23 +1,23 @@
-Call Application, Goals and Time Constraints
-Why don't you start off by telling me a little bit about why you are calling today.
-Feel free to share any details you think might be relevant to your call today. For instance:
+Chat Application, Goals and Time Constraints
+Why don't you start off by telling me a little bit about why you are messaging today.
+Feel free to share any details you think might be relevant to your chat today. For instance:
 Is there a particular assignment or exam you're studying for,
-Or, are you calling for more general study tips?
-Caller Application (Caller Response)
+Or, are you messaging for more general study tips?
+User Application (User Response)
 Specific Application / Exam Preparation
 General Study Skills
 Are you working with any time constraints, like upcoming deadlines?
 Less than 24 hours
 Specific Time Constraint
 None
-What would you like to accomplish immediately after this call. That is, what do you hope our session will prepare you to do?
+What would you like to accomplish immediately after this chat session. That is, what do you hope our session will prepare you to do?
 Or, do you have future goals that you are pursuing that require better study skills?
 IF SPECIFIC APPLICATION: How will doing your best on
 [APPLICATION]
 benefit your future?
-Caller Goals for this Session
+User Goals for this Session
 How do you think better study skills will help you achieve your goals?
-Confirm and clarify above selections and call goals before continuing.
+Confirm and clarify above selections and chat session goals before continuing.
 Could you tell me a bit about your current study practices? I just want to get a sense of what you're already doing to establish a baseline we can work from.
 Current Practices
 Note Taking (In Class)
@@ -89,9 +89,9 @@ Would you like to try a short exercise that you can do to help cultivate your po
 Yes
 No
 I want you to think of a time where you surprised yourself by how much knowledge you had on a certain topic or subject. (This does not have to be an academic subject, but it could be.)
-[Caller Response]
+[User Response]
 How about a time when you used information from one class to do work in another class?
-[Caller Response]
+[User Response]
 Excellent. Let’s try a few more:
 Can you think of times when you:
 Persisted when you encountered setbacks
@@ -102,7 +102,7 @@ Great Job.
 Before you sit down to study, it can be helpful to run through a brief mental exercise like this just as a way to remind yourself of ways you’ve been awesome in the past. If you can bring that positive mindset into the study session, the research says you are more likely to benefit from the session.
 To help make our discussion a bit more concrete, can you think of an assignment or a course that you are currently working on that you could be studying for? Preferably, this would be something that isn’t due immediately but that you know is on the horizon. For instance, maybe a midterm or final coming up in the next few weeks that you need to study for.
 [Application]
-Great. So, as we discuss different study skills throughout the call we’ll use
+Great. So, as we discuss different study skills throughout the chat we'll use
 [APPLICATION]
 as an example to apply these different strategies to.
 Make Sense?
@@ -111,8 +111,8 @@ Before you even start studying, you should take note of your study assets.
 Study assets refer to the different resources available to you either directly through the course, or through the Department or University.
 I’ll read through a list of resources most courses and universities make available, and you can tell me if you have or if you can obtain access to each of them. I also encourage you to make your own notes about these course assets as we talk, particularly about those you don’t currently utilize so that you can check on them.
 Okay, some typical course assets would include:
-[Talk through each course asset and help caller brainstorm how they might better utilize each asset]
-[Check the course assets the Caller uses or thinks they can access]
+[Talk through each course asset and help user brainstorm how they might better utilize each asset]
+[Check the course assets the User uses or thinks they can access]
 Course Syllabus
 What it is:
 A document shared by your professor that usually includes information like course goals, meeting times, instructor office hours, course policies, and assignment overviews.
@@ -157,7 +157,7 @@ Course Readings
 Textbooks
 Articles/essays
 Expand on and enhance information covered in class
-Excellent. At the most basic level, any of these course assets that are available to you and you think might help, you should utilize. But that’s not why you called, so let’s talk more specifically on how you can prepare for your
+Excellent. At the most basic level, any of these course assets that are available to you and you think might help, you should utilize. But that's not why you messaged, so let's talk more specifically on how you can prepare for your
 [APPLICATION]
 .
 So, we’ve talked about some study assets that you can incorporate into your studying routine, now let’s talk more specifically about how you can get the most out of course lectures and class time.
@@ -173,7 +173,7 @@ And
 Second
 , come up with at least three (3) questions about the concepts discussed in the readings that you can bring with you to class to get answered.
 That’s it: just do the reading, and brainstorm at least three questions you might ask about the material being covered.
-In which general subject category is the Caller’s
+In which general subject category is the User's
 [APPLICATION]
 ?
 Humanities or Social Sciences
@@ -193,7 +193,7 @@ Or any practice that challenges you to bring information to mind from memory; th
 Based on what you’ve told me, you are practicing:
 [
 PS NOTE
-] Review table below with Caller. Discuss what they are currently doing and what they could be doing better!
+] Review table below with User. Discuss what they are currently doing and what they could be doing better!
 Encoding
 Rehearsal
 Retrieval
@@ -206,7 +206,7 @@ Reviewing notes
 Self-testing or pre-testing
 Making connections between
 different concepts or classes
-[This table should load the selections from the Present Snapshot-Current Practices screen, indicating those practices the caller is currently doing (indicated by check marks) as well as those practices they could be doing (indicated by having no check).]
+[This table should load the selections from the Present Snapshot-Current Practices screen, indicating those practices the user is currently doing (indicated by check marks) as well as those practices they could be doing (indicated by having no check).]
 Second, study sessions should be
 short
 but
@@ -225,7 +225,7 @@ Your ability to focus on and retain new information is strongest between X-XX mi
 Of course, you can study for longer, but you’ll be less efficient at retaining additional information beyond XX minutes.
 Frequency - high
 Frequency helps strengthen what cognitive psychologists call the “recency effect.” Think of the recency effect as: the less time between study sessions, the more successful you’re likely to be at storing the information in your memory.
-For the rest of the call, we’re just going to put together a smart study schedule so that you can better prepare for your upcoming
+For the rest of the chat, we're just going to put together a smart study schedule so that you can better prepare for your upcoming
 [APPLICATION]
 .
 The basic formula for determining how much time you should be putting in studying for a class is to multiply the number of course credit hours by 2-4.
@@ -270,7 +270,7 @@ Study
 column, I want you to write down which topics you’ll focus on for each hour-long session.
 [
 PS NOTE
-Walk Caller through filling out the following table. The “Source” column indicates where the Caller can locate information relevant to the topic, for instance in a course textbook, their notes, a recorded course lecture, etc.]
+Walk User through filling out the following table. The "Source" column indicates where the User can locate information relevant to the topic, for instance in a course textbook, their notes, a recorded course lecture, etc.]
 Remembering that the ideal study sessions are short but frequent, we’ll talk through some different ways you can structure study sessions so that they work for you.
 But all of the different kinds of study sessions we’ll talk about will use that repeatable flow we just talked about:
 encoding, or absorbing information.
@@ -293,7 +293,7 @@ Does that make sense?
 We’ll talk about how to set up study sessions for each of these kinds of learning.
 [
 Note to PS
-Talk through with the caller how to incorporate different study methods into their study routine. It may not be necessary to cover the entire table, depending on how well the Caller knows their subject area. Focus on providing help depending on where the caller is at.]
+Talk through with the user how to incorporate different study methods into their study routine. It may not be necessary to cover the entire table, depending on how well the User knows their subject area. Focus on providing help depending on where the user is at.]
 Study Session
 Category
 Significance
@@ -383,18 +383,18 @@ Break
 . Now, let’s identify a reward or an activity that you can do as a reward and to help stay motivated.
 [
 PS NOTE
-Add Caller-identified reward to the note field in the Break column.]
+Add User-identified reward to the note field in the Break column.]
 Now,  if you want to block off a two or three hour chunk of your afternoon for studying, you can. These little micro-breaks help you recharge and reset your focus.
 Finally, we want to make sure we’re incorporating those three learning practices we discussed earlier - encoding (or making information memorable), rehearsing (or repeating that information with cues), and retrieving (or using your memory to access that information without external cues).
 [
 PS NOTE
-Fill in the Category and Practice columns using the drop down menus. Not all Callers will need all Category types.]
+Fill in the Category and Practice columns using the drop down menus. Not all Users will need all Category types.]
 [
 EXPLANATORY NOTE
 The Category selection determines the learning goal, on an ascending scale from simplest (learning definitions) to most complex (applying concepts and making connections between concepts). The Practice column outlines three specific study sessions, one for each encoding, rehearsing, and retrieving practice. Ideally, a study schedule will include all three practice types within each applicable Category type.]
 [
 PS NOTE
-Review the full smart study schedule with the Caller.]
+Review the full smart study schedule with the User.]
 Do you have any questions?
 The “Category” drop down is dependent on one factor: whether the PS has selected “Humanities” (or “General”) or “Science and Math” on the earlier Screen Pop Up. Below I outline the menu options beginning with the Humanities/General option and next moving on to the Sciences and Math option.
 The “Practice” drop down options are then dependent on the “Category” choice. Note that Practice options are different for Humanities/General and Sciences and Math. Below I outline the menu options in the Practices menu, beginning with the Humanities/General options and next moving on to the Sciences and Math options.
@@ -439,16 +439,16 @@ Pro Tip: Be the Expert!
 Ask yourself, “If I were to teach this topic/class how would I present it to my class?”
 Stand in front of a mirror and teach what you know as if you were the instructor
 Above all, remember your goals and keep those in the forefront of your mind!
-[Review Caller Goals from the top of the call, saved in Caller Notes]
-To end, I’ll leave you with two extra, quick study tips.
+[Review User Goals from the top of the chat, saved in User Notes]
+To end, I'll leave you with two extra, quick study tips.
 Pro Tip 1: Make memorable connections
 If you are a highly visual person you might read from a textbook and remember a picture of a cell that goes with the description of a skin cell. In this case, making a connection with the material you read, and the picture can help you remember the material. The more relevance it has to you, the easier the material will be to remember.
 Pro Tip 2: Be the Expert!
 Ask yourself, “If I were to teach this topic/class how would I present it to my class?”
 Stand in front of a mirror and teach what you know as if you were the instructor
-Thanks for calling Dragonfly. Again, my name is
+Thanks for chatting Dragonfly. Again, my name is
 [PS Name]
-. Please take a moment or two to fill out the survey at the end of the call to let me know how I did today.
+. Please take a moment or two to fill out the survey at the end of the chat to let me know how I did today.
 Have a wonderful day!
 [FIRST NAME]
 , when you think about studying, remember all of the resources you have at your disposal.
@@ -456,8 +456,8 @@ Study Resources
 And remember that successful study sessions are made possible by how well you listen and take notes in class. Using a standard method of note taking - like the Cornell Method - can keep your notes organized and clear.
 Also remember that how you study is important. Ideally, you want to incorporate practices that work with how your brain learns.
 Above all, remember your goals and keep those in the forefront of your mind!
-[Review Caller Goals from the top of the call, saved in Caller Notes]
-Thanks for calling Dragonfly. Again, my name is
+[Review User Goals from the top of the chat, saved in User Notes]
+Thanks for messaging Dragonfly. Again, my name is
 [PS Name]
-. Please take a moment or two to fill out the survey at the end of the call to let me know how I did today.
+. Please take a moment or two to fill out the survey at the end of the chat to let me know how I did today.
 Have a wonderful day!

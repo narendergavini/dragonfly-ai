@@ -1,18 +1,18 @@
-Call Application, Goals and Time Constraints
-Why don't you start off by telling me a little bit about why you are calling today.
+Chat Application, Goals and Time Constraints
+Why don't you start off by telling me a little bit about why you are messaging today.
 Optional: Feel free to share any details you think might be relevant to our conversation. For instance:
 Is there a particular assignment or exam you're procrastinating on that you need to complete?
-Or, are you calling for more general tips on combating procrastination?
-Caller Application (Caller Response)
+Or, are you messaging for more general tips on combating procrastination?
+User Application (User Response)
 Specific Application / ATE
 General Procrastination
-What would you like to accomplish immediately after this call. That is, what do you hope our session will prepare you to do?
-Caller Goals for this Session
+What would you like to accomplish immediately after this chat session. That is, what do you hope our session will prepare you to do?
+User Goals for this Session
 Are you working with any time constraints, like upcoming deadlines?
 Less than 24 hours [Diverts to Crunch Time solutions]
 Specific Time Constraint
 None
-Confirm and clarify above selections and call goals before continuing.
+Confirm and clarify above selections and chat session goals before continuing.
 Now just a few more quick questions to help us put together an action plan that can work for you. There are no wrong answers here.
 My first question is about your comfort zone when it comes to setting and following through on your goals generally.
 Would you say you are more
@@ -82,18 +82,18 @@ Research also shows that it is easier to form new healthy habits than to change 
 That said,
 Today we'll focus on forming new healthy habits rather than feeling shame about our current habits or tendency to be distracted.
 To do this, we're going to implement a 3-step plan of attack to help minimize distraction and ward off some of those procrastinating tendencies.
-We call this the 3-P Process and it has 3 steps:
+We chat this the 3-P Process and it has 3 steps:
 Planning
 Practice
 Practicing Under Adversity
 Uncertainty Script
-We’re going to focus today's call on reframing some of these feelings of uncertainty or anxiety you’ve mentioned, because those feelings are really at the heart of why you’re procrastinating.
+We’re going to focus today's chat on reframing some of these feelings of uncertainty or anxiety you’ve mentioned, because those feelings are really at the heart of why you’re procrastinating.
 {{ 'You mentioned keywords: ' + convertSelectionsToText() }}
 We’ll practice some cognitive reframing techniques to help you take ownership of your situation as a way to minimize these feelings of uncertainty.
 Then, we’re going to put together a brief plan to help you kickstart your productivity and pursue success.
 Sounds good?
 Motivation Script
-We’re going to focus today's call on reframing how you approach and think about what you’re working on.
+We’re going to focus today's chat on reframing how you approach and think about what you’re working on.
 {{ 'You mentioned keywords: ' + convertSelectionsToText() }}
 We’ll practice some cognitive reframing techniques to help you take ownership of your situation and find some purpose to guide you toward action.
 Then, we’re going to put together a brief plan to help you kickstart your productivity and pursue success.
@@ -122,10 +122,10 @@ Ok, your turn, What are some benefits or values you think might get by performin
 [SPECIFIC APPLICATION]
 ?
 Okay, your turn. What are some benefits or values you think you might get by combating procrastination?
-Caller Identified Benefits/Values
+User Identified Benefits/Values
 Emotional Connectivity 1 (Passive Procrastination)
 The relationship we have with our emotions can be complicated, and this can be especially true for people like you who are a bit more creative and spontaneous.
-[CALLER FIRST NAME]
+[USER FIRST NAME]
 , a lot of times, procrastination has a lot to do with how we feel about a looming task. If we have negative feelings around the task—maybe we’re worrying about failure, for instance—then we’re more likely to avoid it. And that avoidance? That’s procrastination.
 So, let’s just take a moment to run through some quick mental exercises that can help you connect with your positive emotions and gain some emotional perspective when it comes to procrastination.
 Emotional Connectivity 2 (Passive Procrastination)
@@ -145,15 +145,15 @@ The benefit of this exercise is that it helps you create a tool that you can use
 Emotional Connectivity 3 (Specific Application, Passive Procrastination)
 Best Possible Future
 Now,
-[CALLER FIRST NAME]
-, let’s leave the present for a moment and I want you to imagine your Best Possible Future, okay? This is where you want to be in, say, three or five or ten years.
+[USER FIRST NAME]
+, let's leave the present for a moment and I want you to imagine your Best Possible Future, okay? This is where you want to be in, say, three or five or ten years.
 You can think about your Best Possible Future in terms of academics, career, hobbies, health, or any other aspect of your life that feels most important to you right now.
 But whatever it is, be specific…If you’re imagining a particular job, then I want you to:
 Imagine exactly what you would do
 Who you would work with
 and where it would be
 Alight, what is your Best Possible Future?
-Listen to caller response
+Listen to user response
 Now I want you to consider how you never mentioned “
 [SPECIFIC APPLICATION]
 ” as part of your best life.
@@ -177,12 +177,12 @@ But it’s also a way of visualizing
 space
 .
 For instance, again imagine you’re daydreaming about good things and good outcomes. How are you feeling during or even right after that daydream?
-Allow caller to answer
+Allow user to answer
 You feel good, right? Imagining good outcomes in the pretend time and space of your daydream actually affects how you feel in the actual time and space of the present!
 On the flip side, if you’re daydreaming about bad things or bad outcomes, you’re probably going to find yourself in a pretty negative head space, right?
-Allow caller to answer
-Of course, in both of these situations you know that it’s just a daydream. That it’s not real. But it can still affect how you feel about your present and future.
-[CALLER FIRST NAME]
+Allow user to answer
+Of course, in both of these situations you know that it's just a daydream. That it's not real. But it can still affect how you feel about your present and future.
+[USER FIRST NAME]
 . I want you to think of your moments of uncertainty as a form of daydreaming.
 When you start feeling unsure or uncertain about something, remind yourself that this is because you are making a negative prediction about what will or could potentially occur in the future. It’s just a prediction. Try to counter these negative thoughts with positive predictions for the future.
 Would you like to try one exercise that can help you do this?
@@ -210,9 +210,9 @@ This about your
 .
 For this exercise, I want you to think about what your life looks like after you’ve accomplished some of your current goals.
 How did you get there?
-Allow caller to answer
+Allow user to answer
 What are the skills you used to get there?
-Allow caller to answer
+Allow user to answer
 What you’ve just done is you’ve replaced negative predictions about the future with a positive prediction, and you’ve identified a list of skills that you already possess and that you can use to achieve that positive prediction.
 Now that you can picture what it’s like to achieve your goal, we should address what that road to your destination looks like.
 Keep in mind, research shows we perform our best when we are challenged, not when things are easy or when they are extremely difficult. This may make things slightly uncomfortable at times, but I’ll show you how much easier it is to span the gap between where you are and where you want to be when you have a well built bridge in place.
@@ -221,7 +221,7 @@ Imagining the future in positive terms can help you clarify your goals.
 It can also help motivate you in the present.
 Now, I want you to think about the present.
 What does “being in the present” mean to you?
-Allow caller to answer
+Allow user to answer
 Good! Being in the present means not feeling encumbered by the past or worried about the future. It means you are able to focus on what you are doing
 now
 .
@@ -234,7 +234,7 @@ Your plan to get there (bridge building).
 A lot easier said than done, I know. But I want you to repeat after me: “Being in the present means focusing on
 doing
 .”
-Allow caller to answer
+Allow user to answer
 Well done!
 Revaluing the Assignment 1
 On a scale from 1 to 10, how important do you feel this
@@ -246,13 +246,13 @@ Can you think of some ways you could view the
 [SPECIFIC APPLICATION]
 that might help you revalue it?
 Can you think of some way the tasks or assignments you are putting off working on right now might hold value for you, particularly in the future?
-Follow-up question to press Caller, if needed
+Follow-up question to press User, if needed
 Is there maybe some value to you in the assignment that you’re not considering?
-If Caller still struggles to identify value
+If User still struggles to identify value
 Sometimes this exercise can be fairly straightforward, and sometimes it requires a little bit of creativity to do. Let’s try a short exercise.
 Yes [Load Exercise]
 No [Move On]
-Caller Identified Values
+User Identified Values
 Does seeing some value in the
 [SPECIFIC APPLICATION]
 increase how important you feel the assignment is on that scale from one to ten?
@@ -263,7 +263,7 @@ What do you find is valuable to your future success about
 [SPECIFIC APPLICATION]
 ?
 What are some of the skills or attributes of these tasks that you find valuable?
-Caller Identified Values
+User Identified Values
 Excellent. Use that awareness of value to help motivate you to take ownership of
 [SPECIFIC APPLICATION]
 .
@@ -277,7 +277,7 @@ So, what are some transferable skills you’re developing or practicing by worki
 [SPECIFIC APPLICATION]
 ?
 So, what are some transferable skills you’re developing or practicing by working on some of your current assignments?
-Encourage a response by caller, make suggestions, and review skill examples as needed
+Encourage a response by user, make suggestions, and review skill examples as needed
 Possible Skills
 Decision-Making
 Collaboration
@@ -291,7 +291,7 @@ Problem-Solving
 Professionalism
 Initiative
 Empathy
-Caller Identified Values
+User Identified Values
 Does seeing some value in the
 [SPECIFIC APPLICATION]
 increase how important you feel the assignment is on that scale from one to ten?
@@ -303,7 +303,7 @@ Excellent. Use that awareness of value to help motivate you to take ownership of
 Motivation - Deep Dive
 Another strategy to take ownership of what you’re working on is to make improvements on how, or in what order, the information is presented.
 Imagine you are the instructor teaching your own class. How would you reach students like yourself and persuade them to be more motivated or engaged with the material?
-Allow caller to answer
+Allow user to answer
 Motivation - Finish Early
 Setting a self-imposed deadline earlier than the class deadline is a good way of motivating yourself to finish work you’d otherwise put off doing.
 Finishing early is a test of your ability to turn your intentions into actions. Self-imposed deadlines allow you to take action within your environment instead of reacting to it. Here is how this would work:
@@ -312,7 +312,7 @@ Set a reward  (Food/entertainment/trip/workout) for when you finish.
 Set a countdown to how many days you have until your new deadline.
 Specify daily goals (aligned with countdown) you want to accomplish for that assignment
 Can you think of situations where this would be helpful?
-Allow caller to answer, if yes, encourage elaboration
+Allow user to answer, if yes, encourage elaboration
 What are some benefits of starting or finishing your work early?
 Possible Benefits
 Less stress or anxiety
@@ -326,21 +326,21 @@ Reasons/Benefits to finish early
 Motivation - Expressing Appreciation
 I would like us to just take a moment to express appreciation for where you are right now. Not your physical location, but where you are in terms relative to yourself.
 Think of how many years you have been alive?
-Caller Response Age
+user Response Age
 Now reflect on how this whole year is only 1 of
-[CALLER AGE]
+[user AGE]
 years of your life.
 In terms of days, this day only accounts for 1 of
-[CALLER AGE * 365]
+[user AGE * 365]
 days of your life so far.
 In other words, you have come far! And each day is just a small piece of your total life.
 If you see yourself in this light, you’ll realize your trajectory is moving upward and it will continue moving upward as your experiences increase and become richer over time.
 Determine Target
 We can begin the first step by using something you typically would put off doing.
 Do you have something that fits the bill? Maybe an upcoming assignment? Or an assignment you really procrastinated on in the past? It'll just serve as a concrete example for our conversation.
-Allow caller to answer
+Allow user to answer
 Great. Let's jump right in with your
-[Caller Response Application]
+[user Response Application]
 as an example.
 Distractions Task Planner - Specific Application
 Let’s start by determining what needs to go in the plan.
@@ -387,7 +387,7 @@ But real motivation only comes after we take action, not before.
 I know that sounds counter-intuitive. If you lack motivation, then how are you supposed to take action to begin with?
 But this is where a little bit of grit and trust comes in handy.
 Because what the research shows is that the more action we take, the more motivated we become. So we can use action to help increase motivation.
-So let’s wrap up this call by putting together a simple schedule to get your efforts started.
+So let’s wrap up this chat by putting together a simple schedule to get your efforts started.
 The first thing we need to do is to map out what needs to go in the schedule. If you think back to our bus stop analogy, what we’re doing now is equivalent to planning the stops for our bus route so that when the driver gets on the bus, they already have a plan for where they are going.
 You said you had until
 [Time-Constraint]
@@ -413,7 +413,7 @@ Ideally, your schedule will help encourage the creation of productive habits lik
 Again, if you think back to the bus stop analogy. These time slots function like the bus schedule. By putting them on your schedule, you’re committing to consistently be there.
 Let’s think back to those tasks or activities you just brainstormed.
 Are there any of those tasks that you think might benefit from being assigned to regular, recurring times in your schedule in order to make them into longer-term habits?
-Note: Performance Specialist (PS) adds notes to the Task/Activities to indicate caller's responses. For instance, if the Tasks/Activities from the previous screen included “Study biology notes… [enter], Write introduction paragraph… [enter], etc.” The Caller might identify “study biology notes” as a task that would benefit from repeatability. The PS would then add a note on the with “study biology notes” indicating “Habit”]
+Note: Performance Specialist (PS) adds notes to the Task/Activities to indicate chat responses. For instance, if the Tasks/Activities from the previous screen included “Study biology notes… [enter], Write introduction paragraph… [enter], etc.” The user might identify “study biology notes” as a task that would benefit from repeatability. The PS would then add a note on the with “study biology notes” indicating “Habit”]
 Excellent. Now, let’s put our planning into practice by mapping out a schedule you can use to get started.
 Performance Calendar Screen 1
 Pull up a calendar before this script
@@ -440,11 +440,11 @@ Great. Now that we know what you can’t change, let’s start thinking about wh
 Reference task list made previously.
 One great way to do this is to think about those tasks that you find harder or that require more concentration, and plan to do them during times of the day when you feel most awake or productive.
 Is there a time of day when you generally feel most energized or productive?
-Caller answer time of day
+User answer time of day
 Okay, thinking about your schedule and remembering that, if possible, you want to schedule more difficult tasks during
 [TIME OF DAY]
 , when during the week do you think you can do each of your tasks? And whenever possible, try to block off time in hour-long increments.
-Note: Performance Specialist should use Task/Activity notes to help Caller fill in their schedule. Additional tasks/activities can be scheduled as they come up. This is all done verbally, with the PS asking questions or offering suggestions as the Caller speaks. To help the PS, they should be able to see a Calendar of the appropriate duration and should have access to a Notes box to take down notes for themselves if desired.
+Note: Performance Specialist should use Task/Activity notes to help User fill in their schedule. Additional tasks/activities can be scheduled as they come up. This is all done verbally, with the PS asking questions or offering suggestions as the User speaks. To help the PS, they should be able to see a Calendar of the appropriate duration and should have access to a Notes box to take down notes for themselves if desired.
 Performance Calendar Screen 4
 There’s really only one more thing to do. I want you to look at all of those hour-long blocks of study and work time you’ve created and I want you to think of them as really two different buckets of time:
 A 45-minute time block where you are working on the task you've planned
@@ -452,7 +452,7 @@ And a 15-minute block that you set aside for a break of some kind
 This break can be anything you want it to be. Maybe it’s a snack break, or a short walk, or just some time to check your social and relax.
 So as you look at your schedule, remember that 15 minutes of every hour is a small reward and break time. Got it?
 Actually, one more thing. I want you to come up with a larger reward for yourself for when you’ve completed everything. It doesn’t need to be big and elaborate, but it should be something that gives you pleasure and that you don’t get to indulge in all of the time.
-Listen to Caller and congratulate them
+Listen to user and congratulate them
 Distractions - Practicing Under Adversity - 1
 Setting a schedule is only really useful if you follow that schedule.
 {{ "We’ve already talked about the importance of Trusting the Process, which means making a plan and sticking to it even when those distracting factors you mentioned earlier: " + convertSelectionsToText() + " are still around. Because they will be right?" }}
@@ -472,9 +472,9 @@ You’ll always have family or friendship obligations that will require your tim
 Social media isn’t going away.
 The internet, video games, movies, TV shows… all of these things are going to try to capture our attention.
 Instead of approaching the things that distract you as if you could cut them out of your life, try scheduling specific times for your distractions.
-This might mean setting aside time every day for a social media break, or to call your family, or making sure to reserve one evening a week for playing video games or for just doing something for yourself.
+This might mean setting aside time every day for a social media break, or to chat your family, or making sure to reserve one evening a week for playing video games or for just doing something for yourself.
 Let’s try scheduling some time during your week for your most common distractions.
-Performance Specialist should review the schedule the Caller has made and suggest times to schedule some of the Caller’s distractions.
+Performance Specialist should review the schedule the user has made and suggest times to schedule some of the user’s distractions.
 Distractions - Practicing Under Adversity - 3
 Equally important to setting aside time for your distractions is to
 Practice saying “No” to distractions EXCEPT for during the scheduled time.
@@ -502,16 +502,16 @@ Some people do all three of these things, but end up spending too much or too li
 Imagining the future (ideally around 10%)
 Planning (ideally around 15%)
 In the present, doing (ideally around 75%)
-Performance Specialist should bring Caller’s attention to where they are spending too much or too little time. If the Caller is in line with recommendation, PS should congratulate them
+Performance Specialist should bring User’s attention to where they are spending too much or too little time. If the User is in line with recommendation, PS should congratulate them
 Uncertainty - Expressing Appreciation
 I would like us to just take a moment to express appreciation for where you are right now. Not your physical location, but where you are in terms relative to yourself.
 Think of how many years you have been alive?
-Caller Response Age
+User Response Age
 Now reflect on how this whole year is only 1 of
-[CALLER AGE]
+[USER AGE]
 years of your life.
 In terms of days, this day only accounts for 1 of
-[CALLER AGE * 365]
+[USER AGE * 365]
 days of your life so far.
 In other words, you have come far! And each day is just a small piece of your total life.
 If you see yourself in this light, you’ll realize your trajectory is moving upward and it will continue moving upward as your experiences increase and become richer over time.
@@ -539,8 +539,8 @@ Process Summary
 , remember that everybody struggles with a lack of motivation from time to time.
 But by allowing your actions to be guided by your goals, and by setting aside specific time for your distractions, you can create a plan that’s both realistic and oriented toward success.
 Above all, remember your goals and keep those in the forefront of your mind!
-Review Caller Goals from the beginning of the call (Scroll up to top)
-Thanks for calling Dragonfly. Again, my name is
+Review user Goals from the beginning of the chat (Scroll up to top)
+Thanks for messaging Dragonfly. Again, my name is
 [Performance Specialist Name]
-. Please take a moment or two to fill out the survey at the end of the call to let me know how I did today.
+. Please take a moment or two to fill out the survey at the end of the chat session to let me know how I did today.
 Have a wonderful day!
